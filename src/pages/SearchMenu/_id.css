@@ -1,0 +1,108 @@
+/* .mb-5 {
+    margin-left: 353px;
+} */
+
+.landing-page-main {
+    font-family: cereal;
+    padding-left: 5%
+}
+
+/*  CSS NAVBAR START  */
+.navbar {
+    font-size: 18px;
+    color: #2E266F;
+    /* position: absolute; */
+    /* left: 2%; */
+    /* width: 90vw; */
+}
+
+.navbar-item {
+    margin-right: 10px;
+}
+
+.navbar-item:hover {
+    text-decoration: underline;
+    color: #1E238F;
+    cursor: pointer;
+}
+
+.navbar-photo {
+    width: 64px;
+    border-radius: 100%;
+}
+
+.profile-divider {
+    border-left: 5px solid #EFC81A;
+}
+
+.logout {
+    font-weight: bolder;
+}
+
+/*  CSS NAVBAR END  */
+
+
+.icon-button-1 {
+    display: inline-block;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    /* background-color: #EFC81A; */
+}
+
+
+.icon-button-1 img {
+    width: 75%;
+    height: 75%;
+
+}
+
+.icon-button-2 {
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid #EFC81A;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: white;
+}
+
+
+.icon-button-2 img {
+    width: 75%;
+    height: 75%;
+    margin-right: 5px;
+}
+
+.footer {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    background-color: #EFC81A;
+    padding: 2vw;
+    color: #2E266F;
+    font-weight: 100;
+
+}
+
+.footer-mid {
+    padding: 10vw;
+    text-align: center;
+}
+
+.footer-bottom {
+    text-align: center;
+}
+
+.footer-bottom-item {
+    margin-right: 10px;
+    font-size: 1.5vw;
+}
+
+.arkademy {
+    color: black;
+    position: absolute;
+    font-size: 1.5vw;
+    bottom: 20px;
+    right: 20px;
+}

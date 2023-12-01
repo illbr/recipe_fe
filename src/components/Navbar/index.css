@@ -1,0 +1,28 @@
+.navbar {
+    font-size: 18px;
+    color: #2E266F;
+    
+}
+
+.navbar-item {
+    margin-right: 10px;
+}
+
+.navbar-item:hover {
+    text-decoration: underline;
+    color: #1E238F;
+    cursor: pointer;
+}
+
+.navbar-photo {
+    width: 64px;
+    border-radius: 100%;
+}
+
+.profile-divider {
+    border-left: 5px solid #EFC81A;
+}
+
+.logout {
+    font-weight: bolder;
+}
