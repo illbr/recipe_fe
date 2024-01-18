@@ -5,7 +5,7 @@ import 'react-confirm-alert/src/react-confirm-alert.css'
 import Menu from './pages/menu'
 import Like from './pages/menu/like';
 import UpdateMenu from './pages/UpdateMenu'
-import AddMenu from './pages/inputmenu';
+import AddMenu from './pages/inputMenu';
 import SearchMenu from './pages/SearchMenu';
 import MenuById from './pages/SearchMenu/_id';
 import Login from './pages/Auth/Login'
