@@ -72,21 +72,21 @@ If you want to run this project locally, we recommend you configure the back-end
 
 | Login Page                                                                           | Register Page                                                                              |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| [![login-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706012992/recipe%20fe/Screen_Capture_036_-_Recipe_-_recipe-fe-tau.vercel.app_zebahe.jpg) | [![register-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706012992/recipe%20fe/Screen_Capture_036_-_Recipe_-_recipe-fe-tau.vercel.app_zebahe.jpg) |
+| ![login-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706012992/recipe%20fe/Screen_Capture_036_-_Recipe_-_recipe-fe-tau.vercel.app_zebahe.jpg) | ![register-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706012992/recipe%20fe/Screen_Capture_036_-_Recipe_-_recipe-fe-tau.vercel.app_zebahe.jpg) |
 
 | Landing Page                                                                                     | Detail Recipe Page                                                                                  |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| [![landing-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706012992/recipe%20fe/Screen_Capture_036_-_Recipe_-_recipe-fe-tau.vercel.app_zebahe.jpg) | [![detail-recipe-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706033714/recipe%20fe/Screen_Capture_042_-_Recipe_-_recipe-fe-tau.vercel.app_xnn8u8.jpg) |
+| ![landing-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706012992/recipe%20fe/Screen_Capture_036_-_Recipe_-_recipe-fe-tau.vercel.app_zebahe.jpg) | ![detail-recipe-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706033714/recipe%20fe/Screen_Capture_042_-_Recipe_-_recipe-fe-tau.vercel.app_xnn8u8.jpg) |
 
 | Search Menu Page                                                                                     | Home Page                                                                          |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| [![Search-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013015/recipe%20fe/Screen_Capture_038_-_Recipe_-_recipe-fe-tau.vercel.app_wcb8rp.jpg) | [![home-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013015/recipe%20fe/Screen_Capture_038_-_Recipe_-_recipe-fe-tau.vercel.app_wcb8rp.jpg) |
+| ![Search-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013015/recipe%20fe/Screen_Capture_038_-_Recipe_-_recipe-fe-tau.vercel.app_wcb8rp.jpg) | ![home-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013015/recipe%20fe/Screen_Capture_038_-_Recipe_-_recipe-fe-tau.vercel.app_wcb8rp.jpg) |
 
 | Add Recipe Page                                                                                | Update Recipe Page                                                                                   |
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [![add-recipe-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013024/recipe%20fe/Screen_Capture_039_-_Recipe_-_recipe-fe-tau.vercel.app_egt0nt.jpg) | [![edit-recipe-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706033915/recipe%20fe/Screen_Capture_043_-_Recipe_-_recipe-fe-tau.vercel.app_eaditr.jpg) |
+| ![add-recipe-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013024/recipe%20fe/Screen_Capture_039_-_Recipe_-_recipe-fe-tau.vercel.app_egt0nt.jpg) | ![edit-recipe-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706033915/recipe%20fe/Screen_Capture_043_-_Recipe_-_recipe-fe-tau.vercel.app_eaditr.jpg) |
 
-| Edit Profile Page |[![detail-profile-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013047/recipe%20fe/Screen_Capture_041_-_Recipe_-_recipe-fe-tau.vercel.app_n4fkz0.jpg)
+| Edit Profile Page |![detail-profile-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013047/recipe%20fe/Screen_Capture_041_-_Recipe_-_recipe-fe-tau.vercel.app_n4fkz0.jpg)
 
 
 ## Contributing
