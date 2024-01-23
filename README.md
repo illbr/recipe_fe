@@ -86,7 +86,7 @@ If you want to run this project locally, we recommend you configure the back-end
 | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | ![add-recipe-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013024/recipe%20fe/Screen_Capture_039_-_Recipe_-_recipe-fe-tau.vercel.app_egt0nt.jpg) | ![edit-recipe-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706033915/recipe%20fe/Screen_Capture_043_-_Recipe_-_recipe-fe-tau.vercel.app_eaditr.jpg) |
 
-| Edit Profile Page |![detail-profile-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013047/recipe%20fe/Screen_Capture_041_-_Recipe_-_recipe-fe-tau.vercel.app_n4fkz0.jpg)
+ Edit Profile Page ![detail-profile-page.jpg](https://res.cloudinary.com/ddjbdf3jc/image/upload/v1706013047/recipe%20fe/Screen_Capture_041_-_Recipe_-_recipe-fe-tau.vercel.app_n4fkz0.jpg)
 
 
 ## Contributing
